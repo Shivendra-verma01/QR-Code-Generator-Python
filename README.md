@@ -4,7 +4,7 @@ A simple Python project that generates QR codes from user input (text or URL) wi
 
 Features:
 
-1. Generate QR codes from text or URLs
+1.Generate QR codes from text or URLs
    
 2.Custom QR color and background color
 
