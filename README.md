@@ -2,6 +2,7 @@ Custom QR Code Generator using Python
 
 A simple Python project that generates QR codes from user input (text or URL) with color customization and image saving functionality.
 
+
 Features:
 
 1.Generate QR codes from text or URLs
@@ -17,6 +18,7 @@ Features:
 6.Displays generation time
 
 
+
 Technologies Used:
 
 1.Python
@@ -24,6 +26,8 @@ Technologies Used:
 2.qrcode library
 
 3.Pillow (PIL)
+
+
 
 How to Run:
 1. Step 1: Install required libraries:
@@ -33,6 +37,7 @@ How to Run:
 3. Step 2: Run the program:
    
    python qr_generator.py
+
 
 Example Output
 
